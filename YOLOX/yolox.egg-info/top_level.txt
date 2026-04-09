@@ -1,4 +1,0 @@
-exps
-jsons
-weights
-yolox
