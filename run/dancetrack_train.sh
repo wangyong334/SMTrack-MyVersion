@@ -1,0 +1,1 @@
+python3 tools/train.py -f exps/example/mot/yolox_s_dancetrack.py -d 8 -b 16 -c /home/lsw/PycharmProjects/SpikeNet/TOPIC/external/weights/yolox-m.pth
