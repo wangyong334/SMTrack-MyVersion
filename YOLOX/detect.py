@@ -11,7 +11,7 @@ import torch.backends.cudnn as cudnn
 from yolox.evaluators import DetEvaluator
 from torch.nn.parallel import DistributedDataParallel as DDP
 
-
+#git test
 def make_parser():
     parser = argparse.ArgumentParser("YOLOX")
 
